@@ -1,6 +1,6 @@
 # Campus Life & Perks Platform — MERN Starter
 
-T
+
 
 ## Quick Start
 
