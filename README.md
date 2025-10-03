@@ -6,7 +6,7 @@
 
 * Fork this repository (top right corner).
 * Clone the repository to your laptop.
-- create `.env` file [inside server folder] and add `MONGO_URI` 
+- create `.env` file [inside server folder] and add `MONGO_URI` and `JWT_SECRET` variables.
 
 ```bash
 # 1) Setup 
