@@ -27,7 +27,7 @@ cd client && npm run dev
 ```
 
 - Backend runs at `http://localhost:4000`
-- Frontend runs at `http://localhost:5175`
+- Frontend runs at `http://localhost:5000`
 - API base path: `/api`
 
 # DB LINKS
@@ -61,6 +61,6 @@ mongodb://karimahmedx12345_db_user:3j4pXtepJOOqUwdH@ac-8s5sv3m-shard-00-00.sytuj
 
  # TODO:
 - Implement the backend function `login` in `server/src/controllers/authController.js`
-- Tets it on postman & the frontend
+- Test it on postman & the frontend
 - Push it on Github (check the manual if you struggel)
 - Show your TA for grading
