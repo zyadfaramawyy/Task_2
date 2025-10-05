@@ -62,5 +62,5 @@ mongodb://karimahmedx12345_db_user:3j4pXtepJOOqUwdH@ac-8s5sv3m-shard-00-00.sytuj
  # TODO:
 - Implement the backend function `login` in `server/src/controllers/authController.js`
 - Test it on postman & the frontend
-- Push it on Github (check the manual if you struggel)
+- Push it on Github (check the manual if you struggle)
 - Show your TA for grading
