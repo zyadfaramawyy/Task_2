@@ -7,7 +7,7 @@
 * Fork this repository (top right corner).
 * Clone the repository to your laptop.
 - create `.env` file [inside server folder] and add `MONGO_URI` and `JWT_SECRET` variables.
-- To generate the JWT_SECRET use this command : `node -e "console.log(require('crypto').randomBytes(64).toString('hex'))`
+- To generate the JWT_SECRET use this command : `node -e "console.log(require('crypto').randomBytes(64).toString('hex'))"`
 
 ```bash
 # 1) Setup 
